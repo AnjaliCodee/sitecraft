@@ -1,2 +1,2 @@
-# sitecraft
+# Sitecraft
 Just getting started
